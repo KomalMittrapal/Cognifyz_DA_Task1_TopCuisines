@@ -1,0 +1,19 @@
+Dataset loaded successfully!
+Rows: 9551  Columns: 21
+
+Columns available: ['Restaurant ID', 'Restaurant Name', 'Country Code', 'City', 'Address', 'Locality', 'Locality Verbose', 'Longitude', 'Latitude', 'Cuisines', 'Average Cost for two', 'Currency', 'Has Table booking', 'Has Online delivery', 'Is delivering now', 'Switch to order menu', 'Price range', 'Aggregate rating', 'Rating color', 'Rating text', 'Votes']
+
+Duplicate rows: 0
+Missing values in 'Cuisines': 9
+
+Cleaning done! Sample values:
+['french, japanese, desserts' 'japanese'
+ 'seafood, asian, filipino, indian' 'japanese, sushi' 'japanese, korean']
+
+Rows after explode: 19710
+
+🏆 Top 3 Cuisines:
+         Cuisines  Restaurant_Count  Percentage
+100  north indian              3960       41.46
+34        chinese              2733       28.61
+49      fast food              1986       20.79
