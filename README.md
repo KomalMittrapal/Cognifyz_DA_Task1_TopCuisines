@@ -60,6 +60,3 @@ result = (
 # Top 3 cuisines
 top3 = result.head(3)
 print(top3)
-
----
-*Created by Komal for the Data Analyst Internship Program.*
