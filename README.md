@@ -29,12 +29,28 @@ To identify the **Top 3 most common cuisines** and calculate the **percentage of
 4. Unified all separators like `/ | ;` into commas
 5. Split multi-cuisine rows into separate entries using `explode()`
 
-
 ## 💻 Technologies Used
 - **Python**  
 - **pandas** (data manipulation)  
 - **matplotlib** (visualization)  
 - **Jupyter Notebook / Google Colab**
+
+  ## 📦 Repository Contents
+
+| File Name | Description |
+| :--- | :--- |
+| `Task1_TopCuisines.ipynb` | Jupyter Notebook containing all the analysis steps and code. |
+| `top3_cuisines_Output_File.csv` | CSV output file containing the output of top 3 cuisines with their counts and percentages. |
+| `top3_cuisines_chart.png` | Visualization of the top 3 cuisines. |
+| `README.md` | This file, summarizing the task, methods, and results. |
+
+
+## 📈 Results Summary
+| Cuisine | % of Restaurants |
+| :--- | ---: |
+| North Indian | 41.46% |
+| Chinese | 28.61% |
+| Fast Food | 20.79% |
 
 
 ## 📊 Code Summary
