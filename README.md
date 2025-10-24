@@ -38,7 +38,7 @@ To identify the **Top 3 most common cuisines** and calculate the **percentage of
 
 
 ## 📊 Code Summary
-```python
+'''python
 # Load data
 df = pd.read_csv("Dataset.csv")
 
@@ -60,3 +60,7 @@ result = (
 # Top 3 cuisines
 top3 = result.head(3)
 print(top3)
+'''
+
+---
+*Created by Komal for the Data Analyst Internship Program.*
